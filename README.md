@@ -1,4 +1,4 @@
-# Digital Certificate Generation & Verification System
+3# Digital Certificate Generation & Verification System
 
 ## Project Overview
 
@@ -150,19 +150,16 @@ The application uses validation checks, meaningful error messages, database tran
 
 ## Project Structure
 
-```text
 Digital-Certificate-Generation-Verification-System
 │
 ├── README.md
-│
-└── ABAP
-    ├── ZGOV_MODULAR_EGOV.abap
-    ├── ZCL_CITIZEN_REGISTRATION.abap
-    ├── ZCL_APPLICATION_MANAGER.abap
-    ├── ZCL_DATA_VALIDATE.abap
-    ├── ZCL_DOCUMENT_VERIFICATION.abap
-    ├── ZCL_APPLICATION_PROCESSOR.abap
-    ├── ZCL_APPROVAL_MANAGER.abap
-    ├── ZCL_CERTIFICATE_GENERATOR.abap
-    ├── ZCL_CERTIFICATE_VERIFIER.abap
-    └── ZCL_ERROR_HANDLER.abap
+├── ZGOV_MODULAR_EGOV.abap
+├── ZCL_CITIZEN_REGISTRATION.abap
+├── ZCL_APPLICATION_MANAGER.abap
+├── ZCL_DATA_VALIDATE.abap
+├── ZCL_DOCUMENT_VERIFICATION.abap
+├── ZCL_APPLICATION_PROCESSOR.abap
+├── ZCL_APPROVAL_MANAGER.abap
+├── ZCL_CERTIFICATE_GENERATOR.abap
+├── ZCL_CERTIFICATE_VERIFIER.abap
+└── ZCL_ERROR_HANDLER.abap
